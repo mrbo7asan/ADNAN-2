@@ -455,3 +455,71 @@ http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28594
 http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28595
 #EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="RMC Sport Live 15 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 15 FHD FR
 http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28596
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Live: Germany",Eurosport 1 DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19101
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Germany",Eurosport 1 FHD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3435
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15568
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Germany",Eurosport 2 Xtra HD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17281
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Germany",Eurosport 2 Xtra FHD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19099
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/14577
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7337
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/14550
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 HD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3436
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1.jpg" group-title="Live: Germany",Sky Sport 1 DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/14559
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 HD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/1479
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 FHD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7326
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/14560
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/1480
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7327
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/9552
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Germany",SPORT1 FHD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15745
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3841
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital HD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Germany",sportdigital HD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/16582
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19658
+#EXTINF:-1 tvg-id="FCBayernTV.de" tvg-name="FC Bayern FHD DE" tvg-logo="https://picon-13398.kxcdn.com/fcbde.jpg" group-title="Live: Germany",FC Bayern FHD DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/16767
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Germany",Motorvision TV DE
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/9564
+#EXTINF:-1 tvg-id="" tvg-name="EPT Sports FHD GR" tvg-logo="https://picon-13398.kxcdn.com/eptsportsgr.jpg" group-title="Live: Greece",EPT Sports FHD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/9959
+#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-name="Cosmote Sport 4 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 4 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/22989
+#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-name="Cosmote Sport 1 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 1 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/18240
+#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-name="Cosmote Sport 2 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport2gr.jpg" group-title="Live: Greece",Cosmote Sport 2 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/18241
+#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-name="Cosmote Sport 3 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport3gr.jpg" group-title="Live: Greece",Cosmote Sport 3 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/18242
+#EXTINF:-1 tvg-id="CosmoteSportHighlight.gr" tvg-name="Cosmote Sport Highlights GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesporthighlitsgr.jpg" group-title="Live: Greece",Cosmote Sport Highlights GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19577
+#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-name="Cosmote Sport 6 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 6 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/22991
+#EXTINF:-1 tvg-id="CosmoteSport7.gr" tvg-name="Cosmote Sport 7 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 7 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/22992
+#EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-name="Cosmote Sport 8 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 8 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/22993
+#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-name="Cosmote Sport 5 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 5 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/22990
+#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="Novasports 1 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="Live: Greece",Novasports 1 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/26818
+#EXTINF:-1 tvg-id="NovaSports2.gr" tvg-name="Novasports 2 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg" group-title="Live: Greece",Novasports 2 HD GR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/26819
