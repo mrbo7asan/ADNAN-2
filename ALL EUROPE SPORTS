@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC Sport News FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportnewsfr.jpg" group-title="Live: France",RMC Sport News FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/18252
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport FHD FR" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Live: France",Canal+ Sport FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/2210
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport HD FR" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Live: France",Canal+ Sport HD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/13149
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 HD FR" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: France",Eurosport 1 HD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/2013
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 HD FR" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: France",Eurosport 2 HD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7572
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports Channel FR" tvg-logo="https://picon-13398.kxcdn.com/extremesports.jpg" group-title="Live: France",Extreme Sports Channel FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/21904
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+ HD FR" tvg-logo="https://picon-13398.kxcdn.com/infosportplus.jpg" group-title="Live: France",Infosport+ HD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7571
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1 HD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="Live: France",RMC Sport 1 HD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/13182
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC Sport 2 HD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsport2fr.jpg" group-title="Live: France",RMC Sport 2 HD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/2251
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC Sport 3 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsport3fr.jpg" group-title="Live: France",RMC Sport 3 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/21522
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="RMC Sport 4 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsport4fr.jpg" group-title="Live: France",RMC Sport 4 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/13148
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sport Stars FHD FR" tvg-logo="https://picon-13398.kxcdn.com/tracesportstarshd.jpg" group-title="Live: France",Trace Sport Stars FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24152
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1 4K FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsport1fr.jpg" group-title="Live: France",RMC Sport 1 4K FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/26277
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC Sport Access 1 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Access 1 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28583
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC Sport Access 2 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Access 2 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28584
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="RMC Sport Access 3 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Access 3 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28585
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="RMC Sport Live 5 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 5 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28586
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="RMC Sport Live 6 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 6 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28587
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="RMC Sport Live 7 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 7 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28588
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="RMC Sport Live 8 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 8 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28589
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="RMC Sport Live 9 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 9 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28590
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="RMC Sport Live 10 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 10 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28591
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="RMC Sport Live 11 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 11 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28592
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="RMC Sport Live 12 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 12 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28593
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="RMC Sport Live 13 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 13 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28594
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="RMC Sport Live 14 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 14 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28595
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="RMC Sport Live 15 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 15 FHD FR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28596
