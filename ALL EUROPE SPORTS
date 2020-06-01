@@ -681,3 +681,217 @@ http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7008
 http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/11235
 #EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="Eurosport 1 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Netherlands",Eurosport 1 FHD NL
 http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/12532
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX Sports LAM" tvg-logo="https://picon-13398.kxcdn.com/foxsports.jpg" group-title="Live: Latin America",FOX Sports LAM
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/16034
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX Sports 2 HD LAM" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="Live: Latin America",FOX Sports 2 HD LAM
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/16035
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX Sports 3 LAM" tvg-logo="https://picon-13398.kxcdn.com/foxsports3.jpg" group-title="Live: Latin America",FOX Sports 3 LAM
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15975
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC Sports AR" tvg-logo="https://picon-13398.kxcdn.com/tycsportsar.jpg" group-title="Live: Latin America",TyC Sports AR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19671
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD BR" tvg-logo="https://picon-13398.kxcdn.com/sportv3br.jpg" group-title="Live: Latin America",SporTV 3 HD BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23161
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/sportv2br.jpg" group-title="Live: Latin America",SporTV 2 HD BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23160
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="FOX Sports HD BR" tvg-logo="https://picon-13398.kxcdn.com/foxsportshd.jpg" group-title="Live: Latin America",FOX Sports HD BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23162
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports BR" tvg-logo="https://picon-13398.kxcdn.com/bandsoprtsbr.jpg" group-title="Live: Latin America",Band Sports BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23163
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD BR" tvg-logo="https://picon-13398.kxcdn.com/sportvbr.jpg" group-title="Live: Latin America",SporTV HD BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23279
+#EXTINF:-1 tvg-id="FoxSports2.br" tvg-name="FOX Sports 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="Live: Latin America",FOX Sports 2 HD BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24267
+#EXTINF:-1 tvg-id="ESPNExtra.br" tvg-name="ESPN Xtra BR" tvg-logo="https://picon-13398.kxcdn.com/espnxtrabr.jpg" group-title="Live: Latin America",ESPN Xtra BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24266
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg" group-title="Live: Latin America",ESPN 2 HD BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24264
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD BR" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="Live: Latin America",ESPN HD BR
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24263
+#EXTINF:-1 tvg-id="EurosportNorge.no" tvg-name="Eurosport N HD NO" tvg-logo="https://picon-13398.kxcdn.com/eurosportnno.jpg" group-title="Live: Norway",Eurosport N HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19820
+#EXTINF:-1 tvg-id="TV2Sport2.no" tvg-name="TV 2 Sport 2 HD NO" tvg-logo="https://picon-13398.kxcdn.com/tv2sportkanalen.jpg" group-title="Live: Norway",TV 2 Sport 2 HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15525
+#EXTINF:-1 tvg-id="Eurosport1.no" tvg-name="Eurosport 1 FHD NO" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Norway",Eurosport 1 FHD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24207
+#EXTINF:-1 tvg-id="ViasatGolf.no" tvg-name="Viasat Golf HD NO" tvg-logo="https://picon-13398.kxcdn.com/viasatgolfhd.jpg" group-title="Live: Norway",Viasat Golf HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24208
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Hockey HD NO" tvg-logo="https://picon-13398.kxcdn.com/viasathockeyhd.jpg" group-title="Live: Norway",Viasat Hockey HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/24209
+#EXTINF:-1 tvg-id="Viasport1.no" tvg-name="Viasport 1 HD NO" tvg-logo="https://picon-13398.kxcdn.com/viasport1no.jpg" group-title="Live: Norway",Viasport 1 HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19644
+#EXTINF:-1 tvg-id="Viasport2.no" tvg-name="Viasport 2 HD NO" tvg-logo="https://picon-13398.kxcdn.com/viasport2no.jpg" group-title="Live: Norway",Viasport 2 HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19645
+#EXTINF:-1 tvg-id="Viasport3.no" tvg-name="Viasport 3 NO" tvg-logo="https://picon-13398.kxcdn.com/viasport3no.jpg" group-title="Live: Norway",Viasport 3 NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19646
+#EXTINF:-1 tvg-id="ViasportPlus.no" tvg-name="Viasport + HD NO" tvg-logo="https://picon-13398.kxcdn.com/viasportplusno.jpg" group-title="Live: Norway",Viasport + HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19647
+#EXTINF:-1 tvg-id="TV2Sport1.no" tvg-name="TV 2 Sport 1 HD NO" tvg-logo="https://picon-13398.kxcdn.com/tv2sport1no.jpg" group-title="Live: Norway",TV 2 Sport 1 HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/30076
+#EXTINF:-1 tvg-id="TV2SportPremium2.no" tvg-name="TV 2 Sport Premium 2 NO" tvg-logo="https://picon-13398.kxcdn.com/tv2sportpremium2no.jpg" group-title="Live: Norway",TV 2 Sport Premium 2 NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/30094
+#EXTINF:-1 tvg-id="TV2SportPremium1.no" tvg-name="TV 2 Sport Premium HD NO" tvg-logo="https://picon-13398.kxcdn.com/tv2sportpremiumno.jpg" group-title="Live: Norway",TV 2 Sport Premium HD NO
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/30093
+#EXTINF:-1 tvg-id="" tvg-name="Smash Sport MT" tvg-logo="https://picon-13398.kxcdn.com/smashsport.jpg" group-title="Live: Other Countries",Smash Sport MT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/16564
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 1 MY
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23453
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 2 MY
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23452
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23451
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD MY" tvg-logo="https://picon-13398.kxcdn.com/astrocricketmy.jpg" group-title="Live: Other Countries",Astro Cricket HD MY
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23450
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD AU" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="Live: Other Countries",ESPN FHD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33651
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD AU" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg" group-title="Live: Other Countries",ESPN 2 HD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33652
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports News FHD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsportsnews.jpg" group-title="Live: Other Countries",FOX Sports News FHD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33653
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 501 HD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsports501us.jpg" group-title="Live: Other Countries",FOX Sports 501 HD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33654
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 502 HD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsports.jpg" group-title="Live: Other Countries",FOX Sports 502 HD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33655
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 503 HD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsports503us.jpg" group-title="Live: Other Countries",FOX Sports 503 HD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33656
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 504 FHD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsports.jpg" group-title="Live: Other Countries",FOX Sports 504 FHD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33657
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 505 HD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsports.jpg" group-title="Live: Other Countries",FOX Sports 505 HD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33658
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 506 HD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsports.jpg" group-title="Live: Other Countries",FOX Sports 506 HD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33659
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 507 HD AU" tvg-logo="https://picon-13398.kxcdn.com/foxsports.jpg" group-title="Live: Other Countries",FOX Sports 507 HD AU
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33660
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 4 MY
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/33973
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Live: Poland",Canal+ Sport FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/13535
+#EXTINF:-1 tvg-id="CanalPlusSport 2.pl" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Live: Poland",Canal+ Sport 2 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15709
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Poland",Eleven Sports 1 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15198
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Poland",Eleven Sports 2 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15197
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Poland",Eleven Sports 3 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15097
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Poland",Eleven Sports 4 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19149
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Poland",Eurosport 1 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15096
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Poland",Eurosport 2 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15195
+#EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="Extreme Sports FHD PL" tvg-logo="https://picon-13398.kxcdn.com/extremesportshd.jpg" group-title="Live: Poland",Extreme Sports FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15194
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="FightBox HD PL" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="Live: Poland",FightBox HD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15095
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="Fight Klub FHD PL" tvg-logo="https://picon-13398.kxcdn.com/fightklubhdpl.jpg" group-title="Live: Poland",Fight Klub FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15193
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportextrahd.jpg" group-title="Live: Poland",Polsat Sport Extra HD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/11201
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportfighthd.jpg" group-title="Live: Poland",Polsat Sport Fight FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15188
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium1pl.jpg" group-title="Live: Poland",Polsat Sport Premium 1 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23369
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium2pl.jpg" group-title="Live: Poland",Polsat Sport Premium 2 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23370
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="Polsat Sport Premium 3 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium3pl.jpg" group-title="Live: Poland",Polsat Sport Premium 3 PPV FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23420
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="Polsat Sport Premium 4 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium4pl.jpg" group-title="Live: Poland",Polsat Sport Premium 4 PPV FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23421
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="Polsat Sport Premium 5 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium5pl.jpg" group-title="Live: Poland",Polsat Sport Premium 5 PPV FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23422
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="Polsat Sport Premium 6 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium6pl.jpg" group-title="Live: Poland",Polsat Sport Premium 6 PPV FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23423
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsporthd.jpg" group-title="Live: Poland",Polsat Sport HD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/11200
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpsporthd.jpg" group-title="Live: Poland",TVP Sport FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/12826
+#EXTINF:-1 tvg-id="" tvg-name="N Sport + FHD PL" tvg-logo="https://picon-13398.kxcdn.com/nsportplushd.jpg" group-title="Live: Poland",N Sport + FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/15209
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/sportklub.jpg" group-title="Live: Poland",Sport Klub Polska HD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/16835
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportnewspl.jpg" group-title="Live: Poland",Polsat Sport News FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/22762
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport3pl.jpg" group-title="Live: Poland",Canal+ Sport 3 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28019
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus4pl.jpg" group-title="Live: Poland",Canal+ Sport 4 FHD PL
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/28020
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD PT" tvg-logo="https://picon-13398.kxcdn.com/sportingtvhdpt.jpg" group-title="Live: Portugal",Sporting TV HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3246
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23325
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Portugal",Eleven Sports 2 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23320
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="Eleven Sports 3 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Portugal",Eleven Sports 3 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23321
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="Eleven Sports 4 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Portugal",Eleven Sports 4 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23322
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="Eleven Sports 5 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 5 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23323
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 6 FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/23324
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV + PT" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="Live: Portugal",Sport TV + PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/9499
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7846
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pthd.jpg" group-title="Live: Portugal",Sport TV 1 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3221
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17744
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg" group-title="Live: Portugal",Sport TV 2 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7845
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="Live: Portugal",Sport TV 2 FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3222
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg" group-title="Live: Portugal",Sport TV 3 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7844
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3hdpt.jpg" group-title="Live: Portugal",Sport TV 3 FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3223
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="Live: Portugal",Sport TV 4 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7843
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg" group-title="Live: Portugal",Sport TV 4 FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3224
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg" group-title="Live: Portugal",Sport TV 5 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7842
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV + FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="Live: Portugal",Sport TV + FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19589
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3308
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/5541
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV PT" tvg-logo="https://picon-13398.kxcdn.com/sportingtvpt.jpg" group-title="Live: Portugal",Sporting TV PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3305
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 PT" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Live: Portugal",Eurosport 1 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/7851
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Portugal",Eurosport 1 HD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3234
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="Live: Portugal",Eurosport 2 PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/9482
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision TV PT" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Portugal",Motorvision TV PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/9485
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg" group-title="Live: Portugal",Sport TV 5 FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/16297
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport PT" tvg-logo="https://picon-13398.kxcdn.com/kombatsportpt.jpg" group-title="Live: Portugal",Kombat Sport PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/3218
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV PT" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: Portugal",NBA TV PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/27799
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV NBA FHD PT" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: Portugal",Sport TV NBA FHD PT
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/27801
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/starsports1hdin.jpg" group-title="Live: South Asian Countries",Star Sports 1 HD IN
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/18807
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 IN" tvg-logo="https://picon-13398.kxcdn.com/starsports2hdin.jpg" group-title="Live: South Asian Countries",Star Sports 2 IN
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/10165
+#EXTINF:-1 tvg-id="PTVSoprts.pk" tvg-name="PTV Sports PK" tvg-logo="https://picon-13398.kxcdn.com/ptvsportspk.jpg" group-title="Live: South Asian Countries",PTV Sports PK
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/10244
+#EXTINF:-1 tvg-id="TrueAsianSeries.th" tvg-name="True Sport 7 TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 7 TH
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/19146
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD TH" tvg-logo="https://picon-13398.kxcdn.com/foxsportshd.jpg" group-title="Live: Thailand",FOX Sports HD TH
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17107
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD TH" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="Live: Thailand",FOX Sports 2 HD TH
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17108
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 1 SD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 1 SD TH
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17110
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="True Sport 2 HD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 2 HD TH
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17111
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="True Sport 3 HD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 3 HD TH
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17112
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD TH" tvg-logo="https://picon-13398.kxcdn.com/foxsports3.jpg" group-title="Live: Thailand",FOX Sports 3 HD TH
+http://tv.hero.iptv.uno:80/XYRVXEeYjr294/FihkTS346/17109
