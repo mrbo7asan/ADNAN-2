@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ART Cinema ARB" tvg-name="ART Cinema ARB" tvg-logo="" group-title="Arabic",ART Cinema ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14825
+#EXTINF:-1 tvg-id="artaflam1.sa" tvg-name="Art Aflam 1 AR" tvg-logo="" group-title="Arabic",Art Aflam 1 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5841
+#EXTINF:-1 tvg-id="artaflam2.sa" tvg-name="Art Aflam 2 AR" tvg-logo="" group-title="Arabic",Art Aflam 2 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5840
+#EXTINF:-1 tvg-id="hekayat2.sa" tvg-name="Art Hekayat 2 AR" tvg-logo="" group-title="Arabic",Art Hekayat 2 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5837
+#EXTINF:-1 tvg-id="natgeo.sa" tvg-name="Abu Dhabi Nat Geo AR" tvg-logo="" group-title="Arabic",Abu Dhabi Nat Geo AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5891
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies HD ARB" tvg-logo="" group-title="Arabic",Fox Family Movies HD ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8843
+#EXTINF:-1 tvg-id="OSN Al Yawm ARB" tvg-name="OSN Alfa Alyawm ARB" tvg-logo="" group-title="Arabic",OSN Alfa Alyawm ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5902
+#EXTINF:-1 tvg-id="animalplanet.sa" tvg-name="OSN Animal Planet AR" tvg-logo="" group-title="Arabic",OSN Animal Planet AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5911
+#EXTINF:-1 tvg-id="" tvg-name="OSN Box Office 3 AR" tvg-logo="" group-title="Arabic",OSN Box Office 3 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5895
+#EXTINF:-1 tvg-id="osncinema.ae" tvg-name="OSN Cinema 1 AR" tvg-logo="" group-title="Arabic",OSN Cinema 1 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8856
+#EXTINF:-1 tvg-id="" tvg-name="OSN Demand Extra 1 HD AR" tvg-logo="" group-title="Arabic",OSN Demand Extra 1 HD AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8867
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery ID FHD ARB" tvg-logo="" group-title="Arabic",OSN Discovery ID FHD ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5903
+#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="OSN Discovery Science ARB" tvg-logo="" group-title="Arabic",OSN Discovery Science ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5894
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies 2 HD AR" tvg-logo="" group-title="Arabic",OSN Movies 2 HD AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8842
+#EXTINF:-1 tvg-id="osnmoviesaction.ae" tvg-name="OSN Movies Action ARB" tvg-logo="" group-title="Arabic",OSN Movies Action ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5916
+#EXTINF:-1 tvg-id="osnmoviesboxoffice1.ae" tvg-name="OSN Movies Box Office 1 ARB" tvg-logo="" group-title="Arabic",OSN Movies Box Office 1 ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8840
+#EXTINF:-1 tvg-id="osnmoviescomedy.ae" tvg-name="OSN Movies Comedy ARB" tvg-logo="" group-title="Arabic",OSN Movies Comedy ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5905
+#EXTINF:-1 tvg-id="osnmoviesdrama.ae" tvg-name="OSN Movies Drama HD ARB" tvg-logo="" group-title="Arabic",OSN Movies Drama HD ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/4123
+#EXTINF:-1 tvg-id="osnmoviesfestival.ae" tvg-name="OSN Movies Festival ARB" tvg-logo="" group-title="Arabic",OSN Movies Festival ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5917
+#EXTINF:-1 tvg-id="osnmovies.ae" tvg-name="OSN Movies HD AR" tvg-logo="" group-title="Arabic",OSN Movies HD AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8868
+#EXTINF:-1 tvg-id="" tvg-name="OSN Orbit Cinema 2 AR" tvg-logo="" group-title="Arabic",OSN Orbit Cinema 2 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8863
+#EXTINF:-1 tvg-id="osnseriescomedy.ae" tvg-name="OSN Series Comedy HD AR" tvg-logo="" group-title="Arabic",OSN Series Comedy HD AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8839
+#EXTINF:-1 tvg-id="osnseriesfirst.ae" tvg-name="OSN Series First HD AR" tvg-logo="" group-title="Arabic",OSN Series First HD AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8844
+#EXTINF:-1 tvg-id="starworld.sa" tvg-name="OSN Star World ARB" tvg-logo="" group-title="Arabic",OSN Star World ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5913
+#EXTINF:-1 tvg-id="osnwwenetwork.ae" tvg-name="OSN WWE HD ARB" tvg-logo="" group-title="Arabic",OSN WWE HD ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8860
+#EXTINF:-1 tvg-id="osnyahalaaloula.ae" tvg-name="OSN Ya Hala Al Oula FHD AR" tvg-logo="" group-title="Arabic",OSN Ya Hala Al Oula FHD AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8848
+#EXTINF:-1 tvg-id="OSN Yahala Drama HD ARB" tvg-name="OSN Ya Hala Drama ARB" tvg-logo="" group-title="Arabic",OSN Ya Hala Drama ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5908
+#EXTINF:-1 tvg-id="Rotana Aflam ARB" tvg-name="Rotana Aflam ARB" tvg-logo="" group-title="Arabic",Rotana Aflam ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14831
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema EGY ARB" tvg-logo="" group-title="Arabic",Rotana Cinema EGY ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14830
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema HD ARB" tvg-logo="" group-title="Arabic",Rotana Cinema HD ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14828
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema KSA ARB" tvg-logo="" group-title="Arabic",Rotana Cinema KSA ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14829
+#EXTINF:-1 tvg-id="" tvg-name="Zee Aflam AR" tvg-logo="" group-title="Arabic",Zee Aflam AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8959
+#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan AR" tvg-logo="" group-title="Arabic",Zee Alwan AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8960
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="beIN Gourmet HD ARB" tvg-logo="" group-title="Arabic",beIN Gourmet HD ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14839
+#EXTINF:-1 tvg-id="" tvg-name="beIN Junior ARB" tvg-logo="" group-title="Arabic",beIN Junior ARB
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/14763
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="beIN Series HD AR" tvg-logo="" group-title="Arabic",beIN Series HD AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/8819
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="beiN Movies 2 AR" tvg-logo="" group-title="Arabic",beiN Movies 2 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5847
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="beiN Movies 3 AR" tvg-logo="" group-title="Arabic",beiN Movies 3 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5846
+#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="beiN Movies 4 AR" tvg-logo="" group-title="Arabic",beiN Movies 4 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5845
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="beiN Movies HD 1 AR" tvg-logo="" group-title="Arabic",beiN Movies HD 1 AR
+http://satelliteiptv.xyz:8080/order9800/zg0ue6yxri/5848
